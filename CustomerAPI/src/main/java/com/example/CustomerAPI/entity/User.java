@@ -11,7 +11,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 
-@Document(collection = "users")
+@Document(collection = "leaderboard")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

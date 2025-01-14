@@ -21,7 +21,7 @@ import com.example.CustomerAPI.entity.User;
 import com.example.CustomerAPI.repository.UserRepository;
 
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/leaderboard")
 public class UserController {
     
 
